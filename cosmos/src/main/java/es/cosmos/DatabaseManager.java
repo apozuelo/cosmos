@@ -39,6 +39,18 @@ public class DatabaseManager {
     }
 
     /**
+     * Inicializa la base de datos creando todas las tablas necesarias.
+     * Este método debe ser llamado después de establecer la conexión.
+     * 
+     * @throws SQLException Si ocurre un error al crear las tablas
+     */
+    public void initializeDatabase() throws SQLException {
+        createTripulantesTable();
+        createPlayerTable();
+        System.out.println("Base de datos inicializada con todas las tablas.");
+    }
+
+    /**
      * Cierra la conexión con la base de datos SQLite.
      * Verifica si la conexión está activa antes de cerrarla.
      * 
@@ -91,6 +103,24 @@ public class DatabaseManager {
     }
 
     /**
+     * Crea la tabla 'player' con columnas id y nombre.
+     * Si la tabla ya existe, no realiza ninguna acción.
+     * 
+     * @throws SQLException Si ocurre un error al crear la tabla
+     */
+    public void createPlayerTable() throws SQLException {
+        String sql = "CREATE TABLE IF NOT EXISTS player (\n"
+                + " id INTEGER PRIMARY KEY AUTOINCREMENT,\n"
+                + " nombre TEXT NOT NULL\n"
+                + ");";
+        
+        try (Statement stmt = connection.createStatement()) {
+            stmt.execute(sql);
+            System.out.println("Tabla 'player' creada o ya existe.");
+        }
+    }
+
+    /**
      * Inserta datos en una tabla genérica.
      * Utiliza PreparedStatement para prevenir inyección SQL.
      * 
@@ -126,6 +156,23 @@ public class DatabaseManager {
             pstmt.setString(2, graduacion);
             pstmt.executeUpdate();
             System.out.println("Tripulante insertado: " + nombre + " - " + graduacion);
+        }
+    }
+
+    /**
+     * Inserta un nuevo jugador en la tabla 'player'.
+     * Utiliza PreparedStatement para prevenir inyección SQL.
+     * 
+     * @param nombre Nombre del jugador
+     * @throws SQLException Si ocurre un error al insertar el jugador
+     */
+    public void insertPlayer(String nombre) throws SQLException {
+        String sql = "INSERT INTO player (nombre) VALUES (?)";
+        
+        try (PreparedStatement pstmt = connection.prepareStatement(sql)) {
+            pstmt.setString(1, nombre);
+            pstmt.executeUpdate();
+            System.out.println("Jugador insertado: " + nombre);
         }
     }
 
@@ -168,6 +215,26 @@ public class DatabaseManager {
                 System.out.println("ID: " + rs.getInt("id") + 
                                  ", Nombre: " + rs.getString("nombre") + 
                                  ", Graduación: " + rs.getString("graduacion"));
+            }
+        }
+    }
+
+    /**
+     * Consulta y muestra todos los jugadores registrados.
+     * Imprime el ID y nombre de cada jugador en la consola.
+     * 
+     * @throws SQLException Si ocurre un error al consultar los jugadores
+     */
+    public void queryPlayers() throws SQLException {
+        String sql = "SELECT * FROM player";
+        
+        try (Statement stmt = connection.createStatement();
+             ResultSet rs = stmt.executeQuery(sql)) {
+            
+            System.out.println("\nJugadores registrados:");
+            while (rs.next()) {
+                System.out.println("ID: " + rs.getInt("id") + 
+                                 ", Nombre: " + rs.getString("nombre"));
             }
         }
     }
