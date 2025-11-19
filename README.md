@@ -6,3 +6,8 @@ Aquest es el servidor del Joc Cosmos que hem desenvolupat com a pràctica final 
 
 Java 21 JDK
 Visual Studio Code
+
+
+## Persistència
+
+Usarem SQLite per enmmagatzemar la informació durant el temps d'execució del programa. 
