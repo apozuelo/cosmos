@@ -2,13 +2,13 @@
 
 Aquest es el servidor del Joc Cosmos que hem desenvolupat com a pràctica final de l'assignatura Accés a Dades al Grau Superior al CIDE. 
 
-Per el desenvolupament d'aquest códi hem usat Copilot. 
+Per al desenvolupament d'aquest códi hem usat Copilot. 
 
 ## Entorn de desenvolupament
 
-Java 21 JDK
+Java 21 JDK amb Maven
 Visual Studio Code
-Maven
+
 
 
 ## Persistència

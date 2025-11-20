@@ -1,0 +1,6003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<crew>
+    <crewmember>
+        <id>ID-BDFE341E</id>
+        <nombre>Leonard McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-255BA060</id>
+        <nombre>Leonard Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CA865860</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A7DDFC78</id>
+        <nombre>Geordi McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-379AF7EA</id>
+        <nombre>Pavel Riker</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F7819B21</id>
+        <nombre>Jean-Luc Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BCB65B04</id>
+        <nombre>Jean-Luc Troi</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FCEFC30F</id>
+        <nombre>Seven of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BC98499D</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-013E1B1C</id>
+        <nombre>Jean-Luc Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-689EE443</id>
+        <nombre>Spock Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9F93D262</id>
+        <nombre>Pavel Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-262A26A1</id>
+        <nombre>Pavel Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B6A9346C</id>
+        <nombre>Nyota Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C4B99AA8</id>
+        <nombre>Deanna Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4D93D8BB</id>
+        <nombre>Jean-Luc Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-87FE933C</id>
+        <nombre>James of Nine</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-803C7DB2</id>
+        <nombre>Hikaru of Nine</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E0C92B0D</id>
+        <nombre>James Picard</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-10977423</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3AFBA1ED</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F8AAA0EA</id>
+        <nombre>Kathryn Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7151436A</id>
+        <nombre>Geordi La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-22CBAE37</id>
+        <nombre>Kathryn Troi</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CF908E2D</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1B03CB3A</id>
+        <nombre>Hikaru Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5E2460B0</id>
+        <nombre>Nyota Chekov</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C4F7022A</id>
+        <nombre>Geordi Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5562EA8E</id>
+        <nombre>Kathryn Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E63B6F5B</id>
+        <nombre>Pavel Sulu</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F1C53C48</id>
+        <nombre>Spock La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-614FF6D7</id>
+        <nombre>Geordi Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-258B7B8B</id>
+        <nombre>Jean-Luc Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F755B0AA</id>
+        <nombre>Deanna Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-565356C4</id>
+        <nombre>Spock Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-59297AB5</id>
+        <nombre>Beverly McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FE9B7B79</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-835899C3</id>
+        <nombre>Montgomery Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-546AE81D</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DD6BA508</id>
+        <nombre>Kathryn McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DA103C8A</id>
+        <nombre>Deanna Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-99A8F539</id>
+        <nombre>Hikaru Riker</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BD707D4F</id>
+        <nombre>Leonard Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D558FB4A</id>
+        <nombre>Kathryn La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BA047C0A</id>
+        <nombre>Nyota Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DBDCE0FD</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3E9E4EB4</id>
+        <nombre>Spock Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-19B59C05</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D392A27F</id>
+        <nombre>Kathryn Kirk</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4D80B5DC</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-54B85FC9</id>
+        <nombre>Geordi Kirk</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C536ECB2</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-18AF2228</id>
+        <nombre>Kathryn Uhura</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F0E7122C</id>
+        <nombre>Geordi Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F68D7AB9</id>
+        <nombre>William Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E4923951</id>
+        <nombre>Deanna Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9F49A07B</id>
+        <nombre>James Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-92A4F1FF</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A62A2F9C</id>
+        <nombre>Kathryn Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-114CEF87</id>
+        <nombre>Hikaru Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F9E7AFF7</id>
+        <nombre>Pavel Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4CC1EDDB</id>
+        <nombre>Jean-Luc Kirk</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E906FC91</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D4B8F67D</id>
+        <nombre>Geordi Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2A754D1F</id>
+        <nombre>Kathryn Troi</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6EF2F45C</id>
+        <nombre>Pavel Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A6BD5949</id>
+        <nombre>Deanna Riker</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1D5C99C9</id>
+        <nombre>Deanna Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EEEB9DAC</id>
+        <nombre>Geordi Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-04DF0070</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-26230F00</id>
+        <nombre>Beverly Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0FDF966E</id>
+        <nombre>Geordi Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1C93C864</id>
+        <nombre>Montgomery Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-91386C54</id>
+        <nombre>Hikaru Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B9A85232</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8C6EEA2A</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8B2B5F2C</id>
+        <nombre>Beverly Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E29BB8C1</id>
+        <nombre>Hikaru Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-08FDE4E4</id>
+        <nombre>Deanna Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-09162196</id>
+        <nombre>Jean-Luc McCoy</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E0C8AD5A</id>
+        <nombre>Seven Sulu</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-40AAEB85</id>
+        <nombre>James Worf</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4BD59162</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-81D88D12</id>
+        <nombre>Beverly La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-72EC3BCE</id>
+        <nombre>James La Forge</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-734B6CE2</id>
+        <nombre>William Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E6D62FFA</id>
+        <nombre>Kathryn Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D3E215CF</id>
+        <nombre>Montgomery Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2B85D580</id>
+        <nombre>Kathryn Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5E8D77DC</id>
+        <nombre>Jean-Luc Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9C1ADD5D</id>
+        <nombre>Pavel Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D21594FF</id>
+        <nombre>Nyota Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-27A64342</id>
+        <nombre>James Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6A2A2B17</id>
+        <nombre>Beverly Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-867AFD61</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1506F58F</id>
+        <nombre>Geordi La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6C7EA002</id>
+        <nombre>James Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-81F3EC0B</id>
+        <nombre>Deanna Kirk</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C5A0B3AA</id>
+        <nombre>James Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5F0ED8F1</id>
+        <nombre>William Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3AEF8C3E</id>
+        <nombre>Jean-Luc Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-175BAC6E</id>
+        <nombre>Montgomery McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-44E66103</id>
+        <nombre>Seven Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B97EF148</id>
+        <nombre>Montgomery Sulu</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2BBC8C62</id>
+        <nombre>Leonard Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1E4D59EE</id>
+        <nombre>Deanna Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5CB37B6F</id>
+        <nombre>Seven Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C7A115F9</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2DFDBE3A</id>
+        <nombre>Nyota Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-698DDFF3</id>
+        <nombre>Beverly Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-30242309</id>
+        <nombre>Kathryn Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F28D5059</id>
+        <nombre>Jean-Luc Chekov</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C8F2E476</id>
+        <nombre>Seven McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F73B82D2</id>
+        <nombre>Kathryn Kirk</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-33D65F8C</id>
+        <nombre>William La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D0C7C53C</id>
+        <nombre>Spock McCoy</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DA45FE4F</id>
+        <nombre>Beverly Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3293DAFA</id>
+        <nombre>Deanna Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1E281AD8</id>
+        <nombre>Geordi Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A38D369A</id>
+        <nombre>James Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-296D6603</id>
+        <nombre>Spock Worf</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-756C361D</id>
+        <nombre>James Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CD59880F</id>
+        <nombre>Jean-Luc Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3813683F</id>
+        <nombre>Pavel Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-96E2F805</id>
+        <nombre>Deanna La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BD8316AC</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2C608600</id>
+        <nombre>Kathryn Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-898CF1F0</id>
+        <nombre>Deanna Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F33E6FC5</id>
+        <nombre>James Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C27F4760</id>
+        <nombre>William Worf</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DB5C8F58</id>
+        <nombre>Seven Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A705EDFF</id>
+        <nombre>Beverly Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-075A6C39</id>
+        <nombre>Montgomery McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4E324A1F</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-062CBB0C</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D80F62C1</id>
+        <nombre>Hikaru Picard</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D4B5103D</id>
+        <nombre>Nyota Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-06176F27</id>
+        <nombre>Pavel Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-412DE20C</id>
+        <nombre>William Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B14B9B76</id>
+        <nombre>Spock La Forge</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-72A87667</id>
+        <nombre>Kathryn Crusher</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B478C6BD</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D9DD0D75</id>
+        <nombre>Deanna Troi</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B6FE6D6D</id>
+        <nombre>Spock Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-25B0119F</id>
+        <nombre>William Kirk</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-561C3300</id>
+        <nombre>Nyota Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E3A80D14</id>
+        <nombre>Geordi Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-79D24BBF</id>
+        <nombre>Hikaru Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-452AB9AD</id>
+        <nombre>Leonard Riker</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9A3D2E06</id>
+        <nombre>Seven Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-67522143</id>
+        <nombre>Beverly Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3E4A08F6</id>
+        <nombre>James Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-26267E1F</id>
+        <nombre>Leonard Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-94761D42</id>
+        <nombre>Hikaru Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DA099229</id>
+        <nombre>Montgomery La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A56B4068</id>
+        <nombre>Beverly Kirk</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5A13BA72</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A6CD2E47</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BD762021</id>
+        <nombre>Beverly Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E6D4183F</id>
+        <nombre>Deanna Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-152B4FB8</id>
+        <nombre>Beverly Scott</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FBBBB04D</id>
+        <nombre>James of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E5F0D51A</id>
+        <nombre>Nyota Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0A263DF7</id>
+        <nombre>Montgomery Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EA7291D5</id>
+        <nombre>Seven Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-55892867</id>
+        <nombre>James of Nine</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FCCC9EF8</id>
+        <nombre>James of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-34867BEA</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-105564FD</id>
+        <nombre>Pavel Scott</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EBDA219B</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-40B7CB7D</id>
+        <nombre>Pavel McCoy</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BEFF42A5</id>
+        <nombre>Pavel Troi</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7C122C10</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AB3F41F7</id>
+        <nombre>Kathryn Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-32FD6632</id>
+        <nombre>Leonard Riker</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DB44B5C1</id>
+        <nombre>Nyota Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7BDE23C6</id>
+        <nombre>Spock Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E0DD5385</id>
+        <nombre>Deanna Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3B0EF7C8</id>
+        <nombre>William Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-729DB947</id>
+        <nombre>William Picard</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9269A651</id>
+        <nombre>James Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B3BDC0A2</id>
+        <nombre>Kathryn La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2F189AE6</id>
+        <nombre>Spock Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9D1A9252</id>
+        <nombre>Nyota Chekov</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A0228EC8</id>
+        <nombre>Deanna Riker</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D751C5A0</id>
+        <nombre>Leonard La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-09025F63</id>
+        <nombre>Spock Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1C349008</id>
+        <nombre>Hikaru McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D3EB147C</id>
+        <nombre>Pavel of Nine</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6C0C5EB8</id>
+        <nombre>Hikaru Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E5C1982D</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2AAC3FD9</id>
+        <nombre>Kathryn La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CE3FFCAD</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AF5AB08F</id>
+        <nombre>Pavel Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CFB48C4A</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F46C3F90</id>
+        <nombre>Nyota La Forge</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8A8FFE32</id>
+        <nombre>Nyota McCoy</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E1C9E0E1</id>
+        <nombre>Montgomery of Nine</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5AAC9C22</id>
+        <nombre>Kathryn Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9438B1DE</id>
+        <nombre>Seven of Nine</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9ECDD058</id>
+        <nombre>William Worf</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-290B0845</id>
+        <nombre>Leonard Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7A947911</id>
+        <nombre>Seven McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-93813DB0</id>
+        <nombre>Jean-Luc Crusher</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4E2DFF1B</id>
+        <nombre>Nyota Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8F9AE041</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-549EF9D5</id>
+        <nombre>William La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D069F3BD</id>
+        <nombre>Geordi Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1F40B171</id>
+        <nombre>Montgomery Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0B9615B5</id>
+        <nombre>Spock Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BBC969BD</id>
+        <nombre>Deanna of Nine</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3DA29F51</id>
+        <nombre>Spock Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F68FBD79</id>
+        <nombre>James Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-14E77360</id>
+        <nombre>Pavel Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-62B5A16E</id>
+        <nombre>James Kirk</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-ECCFAC3B</id>
+        <nombre>Montgomery McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A6E63EBD</id>
+        <nombre>Nyota Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-599FB981</id>
+        <nombre>Pavel Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-00A750FE</id>
+        <nombre>Leonard Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EFF2EBDF</id>
+        <nombre>Jean-Luc Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-60F4E421</id>
+        <nombre>Deanna Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-116BBB9A</id>
+        <nombre>Kathryn of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0199255C</id>
+        <nombre>Beverly Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-074DA7D5</id>
+        <nombre>Nyota Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6CBA2571</id>
+        <nombre>James Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0CDCCFB1</id>
+        <nombre>Hikaru McCoy</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F1C7F82F</id>
+        <nombre>Nyota Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DB06B58B</id>
+        <nombre>Jean-Luc Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2DBAE33E</id>
+        <nombre>James Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5F530782</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D475B36B</id>
+        <nombre>James Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-21FD98C3</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-68806878</id>
+        <nombre>Pavel Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D5711A13</id>
+        <nombre>Pavel Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1B10C1DF</id>
+        <nombre>Beverly Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-98DE0326</id>
+        <nombre>Deanna La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B32D06FE</id>
+        <nombre>Deanna Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-12E5A011</id>
+        <nombre>Beverly of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4AE4A901</id>
+        <nombre>Beverly Kirk</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7093066B</id>
+        <nombre>William Uhura</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-888E02E4</id>
+        <nombre>James Janeway</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-27B24102</id>
+        <nombre>Jean-Luc Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6C03162B</id>
+        <nombre>William La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E734BB84</id>
+        <nombre>Deanna McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-434CB2CA</id>
+        <nombre>William La Forge</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-76AD15FD</id>
+        <nombre>Nyota Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F792F5B2</id>
+        <nombre>Seven Sulu</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-88EA93FC</id>
+        <nombre>Leonard Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2580D7A2</id>
+        <nombre>James Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-653381AC</id>
+        <nombre>Leonard Sulu</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F0587F10</id>
+        <nombre>Beverly Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8BEBB2E0</id>
+        <nombre>James Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1B562F96</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7E7A6B34</id>
+        <nombre>Hikaru Uhura</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E1C9C166</id>
+        <nombre>James of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-68503677</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A409146C</id>
+        <nombre>Hikaru Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4B22E62D</id>
+        <nombre>William Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-18DD4BE4</id>
+        <nombre>Seven Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-17752E94</id>
+        <nombre>William Scott</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EE827F4B</id>
+        <nombre>Kathryn Troi</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-45DA6437</id>
+        <nombre>Leonard Riker</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A7B23FF3</id>
+        <nombre>Hikaru McCoy</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-56DC412B</id>
+        <nombre>Jean-Luc Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5F06EE0A</id>
+        <nombre>Kathryn Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8F70D7DE</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4493182D</id>
+        <nombre>William Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2CCDE680</id>
+        <nombre>William Troi</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1753AEB3</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A530D7D2</id>
+        <nombre>Kathryn of Nine</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AE53B25E</id>
+        <nombre>Seven Kirk</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4D2EA17A</id>
+        <nombre>Montgomery Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-780B2E8C</id>
+        <nombre>Leonard Janeway</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-403C04BA</id>
+        <nombre>Geordi Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5DEA5E46</id>
+        <nombre>Beverly Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FA2EF35A</id>
+        <nombre>Geordi Troi</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1C2A6274</id>
+        <nombre>Geordi Worf</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E30D03FF</id>
+        <nombre>Jean-Luc Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D98D412D</id>
+        <nombre>Spock Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-300B75FE</id>
+        <nombre>Deanna of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6A7F819C</id>
+        <nombre>Kathryn Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-18EDB0D3</id>
+        <nombre>Jean-Luc Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-33282E16</id>
+        <nombre>Nyota La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E727185C</id>
+        <nombre>Nyota Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9A495BF6</id>
+        <nombre>Hikaru La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B6573BB9</id>
+        <nombre>Pavel Worf</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D69F514A</id>
+        <nombre>Nyota of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6F8293FB</id>
+        <nombre>Kathryn Worf</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-16E3A5D5</id>
+        <nombre>Geordi Sulu</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E13D761E</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-58977FC1</id>
+        <nombre>Pavel of Nine</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B429646F</id>
+        <nombre>Jean-Luc Uhura</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C6481A96</id>
+        <nombre>Spock Scott</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A63ECE04</id>
+        <nombre>Hikaru of Nine</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B3715175</id>
+        <nombre>William Picard</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0AD63BAC</id>
+        <nombre>Hikaru Scott</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2E579354</id>
+        <nombre>Spock Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EB0BADA8</id>
+        <nombre>James Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2E87E731</id>
+        <nombre>Deanna La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A7F2CF7C</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E9894FCD</id>
+        <nombre>Kathryn Janeway</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-660CF1F4</id>
+        <nombre>Deanna Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6748C56E</id>
+        <nombre>James La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-504B008F</id>
+        <nombre>Montgomery Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B9AECD58</id>
+        <nombre>Kathryn McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1E685231</id>
+        <nombre>Jean-Luc Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5C9232DB</id>
+        <nombre>James Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8CCEB033</id>
+        <nombre>Deanna McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-77DC1D03</id>
+        <nombre>Hikaru Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2D2DB539</id>
+        <nombre>Deanna Riker</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AE954960</id>
+        <nombre>Spock Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-823F1A14</id>
+        <nombre>Hikaru Worf</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1D8174BC</id>
+        <nombre>Geordi Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-75BC159C</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BF686EF5</id>
+        <nombre>Leonard Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D4C9C3D2</id>
+        <nombre>Jean-Luc Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F1E6BED1</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-33463C3B</id>
+        <nombre>Seven Scott</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D706A9FA</id>
+        <nombre>Seven Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4C65B03B</id>
+        <nombre>Hikaru Janeway</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4DBC82F6</id>
+        <nombre>Leonard of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D7D3B8B3</id>
+        <nombre>Pavel Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-46BA4254</id>
+        <nombre>Geordi Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9180A8F3</id>
+        <nombre>Spock Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CAA38AE1</id>
+        <nombre>Nyota McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CFE2E826</id>
+        <nombre>Spock Scott</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D26B81ED</id>
+        <nombre>Seven Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-61656228</id>
+        <nombre>Pavel Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DF23FAB3</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C0AEC9D1</id>
+        <nombre>Beverly Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A3ABF7A2</id>
+        <nombre>Deanna Riker</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7C9320DA</id>
+        <nombre>Seven Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FB378881</id>
+        <nombre>Leonard Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FB42573E</id>
+        <nombre>James of Nine</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-812CE159</id>
+        <nombre>Beverly Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-96996F0D</id>
+        <nombre>William Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1D6B2109</id>
+        <nombre>James Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8A0860C8</id>
+        <nombre>Leonard Riker</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E1F8A38D</id>
+        <nombre>Spock Kirk</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F318026B</id>
+        <nombre>Leonard Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4A630774</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0CB1D7F4</id>
+        <nombre>Pavel Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2BB9969C</id>
+        <nombre>James Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9F68FF08</id>
+        <nombre>William Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D420EC00</id>
+        <nombre>Seven Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5D7545E8</id>
+        <nombre>Deanna La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-97FB65B6</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-68AA7122</id>
+        <nombre>William Worf</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2C11226F</id>
+        <nombre>Jean-Luc Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-76A58E63</id>
+        <nombre>Montgomery of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2FC41480</id>
+        <nombre>Pavel Riker</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A011630C</id>
+        <nombre>Spock Chekov</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-717C25C6</id>
+        <nombre>Kathryn Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-19C392AC</id>
+        <nombre>Leonard Sulu</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-134519E0</id>
+        <nombre>Kathryn Kirk</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-458EDE43</id>
+        <nombre>Spock Worf</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-43D29482</id>
+        <nombre>William Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D6144635</id>
+        <nombre>James Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CC7325F8</id>
+        <nombre>William La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-91B5D780</id>
+        <nombre>Pavel Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8ED6A39B</id>
+        <nombre>Jean-Luc Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5A33A241</id>
+        <nombre>William Chekov</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EDDFDA4D</id>
+        <nombre>Geordi Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6CA97D3C</id>
+        <nombre>Deanna Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E96F1DCE</id>
+        <nombre>Beverly Kirk</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-37A61B76</id>
+        <nombre>William La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-360B5F8F</id>
+        <nombre>Deanna Troi</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3690687B</id>
+        <nombre>Kathryn Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EF376110</id>
+        <nombre>Geordi Troi</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2A12B2B5</id>
+        <nombre>Leonard Kirk</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-91EBCB90</id>
+        <nombre>Nyota Picard</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-15B16814</id>
+        <nombre>William Scott</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7C0F7307</id>
+        <nombre>William Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0258E6F6</id>
+        <nombre>Spock Kirk</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3F1BAED1</id>
+        <nombre>Montgomery Janeway</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-58011C00</id>
+        <nombre>Leonard La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A853DECB</id>
+        <nombre>Kathryn Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D0E8D3E4</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2F73B589</id>
+        <nombre>Nyota Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7839825D</id>
+        <nombre>Jean-Luc Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6849122A</id>
+        <nombre>Beverly Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0645CD1C</id>
+        <nombre>Beverly Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D1CDB37C</id>
+        <nombre>Seven Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F80B8DFB</id>
+        <nombre>Deanna Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DD3BBEC6</id>
+        <nombre>Deanna Troi</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-618F77E7</id>
+        <nombre>Montgomery Sulu</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C3CA1C6E</id>
+        <nombre>Hikaru of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FC87C5F1</id>
+        <nombre>Nyota Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-043F7A4A</id>
+        <nombre>William Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FE1D96F4</id>
+        <nombre>Beverly Kirk</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-47CC7F75</id>
+        <nombre>Montgomery Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-23E93E8A</id>
+        <nombre>James McCoy</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5316619C</id>
+        <nombre>William Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4B314F9B</id>
+        <nombre>Montgomery Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B880F125</id>
+        <nombre>Pavel McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-87D015A3</id>
+        <nombre>Montgomery Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DA38F54F</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A2188B2B</id>
+        <nombre>Hikaru Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4FCAF07E</id>
+        <nombre>Hikaru Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-721B54A3</id>
+        <nombre>Kathryn Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-ADC2CEE6</id>
+        <nombre>William Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7E767694</id>
+        <nombre>Kathryn Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-39905E6B</id>
+        <nombre>Pavel Janeway</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E67BD3BD</id>
+        <nombre>James La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-130A898A</id>
+        <nombre>William La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-34B114CD</id>
+        <nombre>Pavel Chekov</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A7ECF929</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-07BCF081</id>
+        <nombre>Leonard Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-72BA2EF1</id>
+        <nombre>Seven Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CA859823</id>
+        <nombre>Seven Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-56B0218C</id>
+        <nombre>Beverly Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A768530C</id>
+        <nombre>Nyota Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C5E02DCF</id>
+        <nombre>Leonard Janeway</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-039E02D4</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D6CEBE4B</id>
+        <nombre>Leonard Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-30DB2AC5</id>
+        <nombre>Spock Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D01EF667</id>
+        <nombre>Beverly Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AA3744B1</id>
+        <nombre>Jean-Luc Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BD05FE5C</id>
+        <nombre>William Kirk</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0EFF2959</id>
+        <nombre>Geordi Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2A85CE3F</id>
+        <nombre>Kathryn La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-687A581C</id>
+        <nombre>Beverly Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B45D541E</id>
+        <nombre>Pavel Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2E955825</id>
+        <nombre>Spock Picard</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0F2D0569</id>
+        <nombre>Geordi McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D20C1F86</id>
+        <nombre>Deanna Janeway</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7B718E17</id>
+        <nombre>Leonard Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9C22B05D</id>
+        <nombre>Spock Sulu</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9584B1BD</id>
+        <nombre>Spock McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-83F47622</id>
+        <nombre>Leonard Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-88449F90</id>
+        <nombre>William McCoy</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FBAF4DDB</id>
+        <nombre>Spock Kirk</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-22C8D70F</id>
+        <nombre>Seven McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C2355C0B</id>
+        <nombre>Beverly McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-05839344</id>
+        <nombre>Hikaru La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F222D703</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-962976EA</id>
+        <nombre>Geordi Sulu</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BC0D8184</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2110DF87</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C6F06F7A</id>
+        <nombre>Pavel Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E8585C23</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3F75BC2A</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-37AD52D4</id>
+        <nombre>Jean-Luc Scott</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-47DDFE63</id>
+        <nombre>Geordi McCoy</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AEB899FA</id>
+        <nombre>Kathryn Riker</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-43910B5D</id>
+        <nombre>Leonard McCoy</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EE6C255F</id>
+        <nombre>Deanna Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AB66B1E7</id>
+        <nombre>Beverly Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CDF55416</id>
+        <nombre>Pavel McCoy</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9B421F50</id>
+        <nombre>James La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-39BE72AC</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A275F178</id>
+        <nombre>Beverly McCoy</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AB8789DF</id>
+        <nombre>Beverly La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-78C2D19E</id>
+        <nombre>Leonard Uhura</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-10F60F50</id>
+        <nombre>William Scott</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-047BA0AE</id>
+        <nombre>Montgomery Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EDFB1E1E</id>
+        <nombre>Nyota Worf</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F3C0DBDB</id>
+        <nombre>Kathryn Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AF6F0262</id>
+        <nombre>Leonard Picard</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FE5EA84C</id>
+        <nombre>Leonard Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0D91C256</id>
+        <nombre>Leonard La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DF356AD9</id>
+        <nombre>Deanna Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0ADA303E</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A0AD6C3A</id>
+        <nombre>Deanna Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6D60AB79</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0437B6C1</id>
+        <nombre>Leonard Picard</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7C6CF15E</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-696B7740</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BAF460AE</id>
+        <nombre>Spock of Nine</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-86D2DE51</id>
+        <nombre>Seven Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5EB40013</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-470511A9</id>
+        <nombre>Geordi Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9B86A26C</id>
+        <nombre>Spock Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-13541211</id>
+        <nombre>Kathryn Picard</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F3A50E4F</id>
+        <nombre>Pavel La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CC6B01C3</id>
+        <nombre>Kathryn McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-66F77BF0</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-15B9906E</id>
+        <nombre>Kathryn Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1004D540</id>
+        <nombre>Hikaru La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E0EB8C2C</id>
+        <nombre>Montgomery Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-22E00063</id>
+        <nombre>Nyota Riker</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-15A0FFD6</id>
+        <nombre>William of Nine</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-87DE9CF8</id>
+        <nombre>Spock Kirk</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1B354F02</id>
+        <nombre>Geordi Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-34487D4F</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E3EC624A</id>
+        <nombre>Geordi Uhura</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7035DCE6</id>
+        <nombre>Seven McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-59B5EA69</id>
+        <nombre>Beverly Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C60E00BB</id>
+        <nombre>Geordi Troi</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4EB96371</id>
+        <nombre>Deanna Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6B2DD153</id>
+        <nombre>Montgomery Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-90BB9B3C</id>
+        <nombre>Leonard Riker</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1CE43C07</id>
+        <nombre>Spock La Forge</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-68E09E1D</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-50CD7D29</id>
+        <nombre>Kathryn Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3E227CEF</id>
+        <nombre>Deanna Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C5377588</id>
+        <nombre>Pavel Kirk</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AB89717D</id>
+        <nombre>William McCoy</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B72C4D96</id>
+        <nombre>Geordi Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EC525CD4</id>
+        <nombre>Hikaru Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-97C6A185</id>
+        <nombre>Hikaru Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3B3936D5</id>
+        <nombre>Geordi Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-992A9B0C</id>
+        <nombre>William Sulu</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C8B8BD02</id>
+        <nombre>James La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0C2C7EB4</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A67699BA</id>
+        <nombre>Spock Janeway</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-595AABA8</id>
+        <nombre>William Picard</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CB32CFFB</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8BE56985</id>
+        <nombre>Pavel Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C8597381</id>
+        <nombre>Leonard Sulu</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-48505087</id>
+        <nombre>William of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EEAC3BFF</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7C69D0B4</id>
+        <nombre>Kathryn of Nine</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C3AA91E6</id>
+        <nombre>Hikaru Janeway</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A8F4B9AA</id>
+        <nombre>Pavel La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-694E2ECA</id>
+        <nombre>James McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-539EB958</id>
+        <nombre>Leonard Riker</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5500F18F</id>
+        <nombre>Beverly Worf</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B9695E38</id>
+        <nombre>James Riker</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D44A62A1</id>
+        <nombre>William Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-52388F57</id>
+        <nombre>Jean-Luc La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DD52FC89</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-464053C1</id>
+        <nombre>Pavel Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-86B32C59</id>
+        <nombre>James Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F1A8EBCE</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D4996673</id>
+        <nombre>Nyota Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DE19E09C</id>
+        <nombre>James Picard</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-997BB875</id>
+        <nombre>Nyota Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-40CEFCBA</id>
+        <nombre>Nyota Sulu</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A28530C1</id>
+        <nombre>Spock Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F4243C66</id>
+        <nombre>Pavel Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-194E4CEE</id>
+        <nombre>Spock Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-66350EFB</id>
+        <nombre>Seven Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DAA08BFD</id>
+        <nombre>Kathryn Scott</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A4FF6025</id>
+        <nombre>Nyota Riker</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BE9BCD10</id>
+        <nombre>Nyota Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-229701E3</id>
+        <nombre>Hikaru Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A6011E13</id>
+        <nombre>William McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E3B56148</id>
+        <nombre>Pavel Kirk</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DD71577F</id>
+        <nombre>Jean-Luc Uhura</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-75471A48</id>
+        <nombre>Beverly of Nine</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-37708AF1</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A89113DF</id>
+        <nombre>Pavel Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7A0E59BC</id>
+        <nombre>Pavel Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-114B7F29</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E13141B2</id>
+        <nombre>Montgomery La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EE532C49</id>
+        <nombre>William Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CB557FED</id>
+        <nombre>Jean-Luc Janeway</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BB80CE65</id>
+        <nombre>Montgomery Riker</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-20FB9231</id>
+        <nombre>Montgomery Picard</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-223D5B5E</id>
+        <nombre>Beverly Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CEC15822</id>
+        <nombre>Nyota Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0F8D45CD</id>
+        <nombre>Geordi Worf</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0F4A9867</id>
+        <nombre>Jean-Luc Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-833F6A23</id>
+        <nombre>Kathryn Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-58F4C408</id>
+        <nombre>Hikaru Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5B47B62F</id>
+        <nombre>Jean-Luc Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0057BCED</id>
+        <nombre>Kathryn Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4E742311</id>
+        <nombre>Leonard Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9CAAE9EF</id>
+        <nombre>Seven of Nine</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0FA94032</id>
+        <nombre>Hikaru Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CB5D3EAE</id>
+        <nombre>Nyota Chekov</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-791C7C1B</id>
+        <nombre>Montgomery McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6D0851B6</id>
+        <nombre>Kathryn of Nine</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BCA8B297</id>
+        <nombre>Jean-Luc Kirk</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2662583A</id>
+        <nombre>Jean-Luc of Nine</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5FBB08C6</id>
+        <nombre>William Troi</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-333B7754</id>
+        <nombre>Leonard Picard</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0ED76555</id>
+        <nombre>Kathryn La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DB80E1ED</id>
+        <nombre>Seven McCoy</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F503D39D</id>
+        <nombre>Kathryn Riker</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AF4306E3</id>
+        <nombre>Deanna Janeway</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-054B69A6</id>
+        <nombre>Hikaru Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AA9D2B32</id>
+        <nombre>Geordi Kirk</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5B247CA1</id>
+        <nombre>Deanna Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9015BF47</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-173E1836</id>
+        <nombre>Pavel Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A19D57BE</id>
+        <nombre>Spock Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8615E6D1</id>
+        <nombre>William Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4C06DDC6</id>
+        <nombre>Seven Worf</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AA1A247A</id>
+        <nombre>Nyota Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-083C9E83</id>
+        <nombre>Pavel Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-90FF5CAB</id>
+        <nombre>Pavel Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C615F1E0</id>
+        <nombre>Leonard Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9D2FDCB9</id>
+        <nombre>Deanna Troi</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BC80C947</id>
+        <nombre>William Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-85CBD95A</id>
+        <nombre>Leonard Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DFA0BBB7</id>
+        <nombre>Leonard Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7252440B</id>
+        <nombre>Hikaru Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-68CFCB88</id>
+        <nombre>Kathryn Kirk</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9ABBD004</id>
+        <nombre>Jean-Luc McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-006C40C8</id>
+        <nombre>James Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2B59DC9E</id>
+        <nombre>James McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CD02969A</id>
+        <nombre>Jean-Luc McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3734F458</id>
+        <nombre>Leonard Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-60A527C3</id>
+        <nombre>Pavel La Forge</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C5A70B5E</id>
+        <nombre>Beverly of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-76AE8173</id>
+        <nombre>Beverly La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EE192DFB</id>
+        <nombre>William Chekov</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D955D26F</id>
+        <nombre>Spock Uhura</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-77BB0747</id>
+        <nombre>Pavel Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-363139A1</id>
+        <nombre>Deanna Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-32C57823</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-47A3DB38</id>
+        <nombre>Leonard Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-93628DFD</id>
+        <nombre>Nyota Scott</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0DD2234C</id>
+        <nombre>Beverly of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-36D4E7EA</id>
+        <nombre>Deanna of Nine</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-43D505AE</id>
+        <nombre>Leonard Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-43330913</id>
+        <nombre>Leonard Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2749402F</id>
+        <nombre>Jean-Luc Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F375D1C7</id>
+        <nombre>Spock Picard</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4FCBF91E</id>
+        <nombre>William Scott</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9FC08E56</id>
+        <nombre>Hikaru Scott</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-43138FB9</id>
+        <nombre>Seven Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A76753C5</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-077314FF</id>
+        <nombre>Leonard Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A898CE8F</id>
+        <nombre>Kathryn Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5AA0FBF9</id>
+        <nombre>Jean-Luc McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-80AEB775</id>
+        <nombre>Beverly Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3690D43E</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2B0F4159</id>
+        <nombre>Beverly Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A4890F0C</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7A9E6F3B</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7B484358</id>
+        <nombre>Kathryn Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-964FE2E3</id>
+        <nombre>William La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3618280F</id>
+        <nombre>Beverly Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-07DAAC08</id>
+        <nombre>Geordi Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-97A97818</id>
+        <nombre>William Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-420D3AC1</id>
+        <nombre>Deanna Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-77B36277</id>
+        <nombre>Deanna Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-946B5250</id>
+        <nombre>Geordi Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-719C3777</id>
+        <nombre>Pavel Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-610D481C</id>
+        <nombre>Beverly Worf</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2CF53E43</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BBEEB12C</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BB3D3C43</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7E0B13FB</id>
+        <nombre>Jean-Luc La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2361C7BC</id>
+        <nombre>Seven of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7228DDDF</id>
+        <nombre>Geordi Crusher</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3FEE820F</id>
+        <nombre>Geordi Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A775D1B6</id>
+        <nombre>Hikaru Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9B740504</id>
+        <nombre>Leonard Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EEF5026D</id>
+        <nombre>Beverly McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-132AE3F4</id>
+        <nombre>Deanna of Nine</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C30433B1</id>
+        <nombre>Hikaru Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3479516D</id>
+        <nombre>Deanna Worf</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9DE0AE91</id>
+        <nombre>Geordi McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C89B23BF</id>
+        <nombre>Jean-Luc of Nine</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0B020A8F</id>
+        <nombre>Kathryn La Forge</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B24C8484</id>
+        <nombre>Jean-Luc McCoy</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E2B36AB7</id>
+        <nombre>Deanna Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3D283552</id>
+        <nombre>Hikaru Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-97BF1871</id>
+        <nombre>Hikaru Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0FE189C0</id>
+        <nombre>Pavel La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EC88CB42</id>
+        <nombre>Seven Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D6E607FC</id>
+        <nombre>Nyota Worf</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FE44FB7D</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C7D28176</id>
+        <nombre>Jean-Luc La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2104206E</id>
+        <nombre>William Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-495F665F</id>
+        <nombre>Leonard Worf</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-276966F5</id>
+        <nombre>Montgomery Chekov</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-49FF3592</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-16D2399D</id>
+        <nombre>Leonard Scott</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-89AE2DB1</id>
+        <nombre>Hikaru Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0F575118</id>
+        <nombre>Deanna Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7C2B9E16</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-81DFFA59</id>
+        <nombre>Beverly La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7B620142</id>
+        <nombre>James Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-18ACCC1D</id>
+        <nombre>Nyota Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-795E1405</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C0192C10</id>
+        <nombre>Jean-Luc Janeway</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2A092D23</id>
+        <nombre>Deanna Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-81C7FEA8</id>
+        <nombre>Geordi Chekov</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CB187171</id>
+        <nombre>Seven Worf</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F0951C6D</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3650907D</id>
+        <nombre>Pavel of Nine</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-25E495AD</id>
+        <nombre>Kathryn Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-57BE791F</id>
+        <nombre>Seven Worf</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D4AC7F08</id>
+        <nombre>Deanna Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3F3EE3C8</id>
+        <nombre>Nyota Sulu</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-513BD50A</id>
+        <nombre>Deanna Chekov</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D4604F59</id>
+        <nombre>Hikaru Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-83752111</id>
+        <nombre>Beverly Troi</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DA48D04E</id>
+        <nombre>Deanna Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E534A6E0</id>
+        <nombre>Spock Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E7D8EFC2</id>
+        <nombre>Pavel Janeway</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F7109361</id>
+        <nombre>Kathryn Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AD5724EA</id>
+        <nombre>James McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FAD32709</id>
+        <nombre>Jean-Luc Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1701D59C</id>
+        <nombre>Jean-Luc Worf</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A478C3C6</id>
+        <nombre>Spock Worf</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-634DE144</id>
+        <nombre>Seven Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9906E572</id>
+        <nombre>Spock Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D0AA1F33</id>
+        <nombre>Leonard La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CE3329A2</id>
+        <nombre>Geordi Riker</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B57EEF80</id>
+        <nombre>Geordi La Forge</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1A4167FF</id>
+        <nombre>Kathryn Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1AC4E73E</id>
+        <nombre>Montgomery of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BD55048C</id>
+        <nombre>Montgomery Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6A5F0825</id>
+        <nombre>Spock Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AA2D3325</id>
+        <nombre>Jean-Luc Kirk</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AE088CAC</id>
+        <nombre>Pavel Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9A56CFB1</id>
+        <nombre>Kathryn of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9EDA886B</id>
+        <nombre>Nyota Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-604E857C</id>
+        <nombre>Hikaru Kirk</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3868DB9C</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-52815CE7</id>
+        <nombre>Nyota La Forge</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-57957848</id>
+        <nombre>Seven Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5F7A0099</id>
+        <nombre>Jean-Luc Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0A725B73</id>
+        <nombre>William Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D34D59B8</id>
+        <nombre>Jean-Luc Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-083E1946</id>
+        <nombre>Spock McCoy</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0B93861C</id>
+        <nombre>Montgomery Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2017D9F2</id>
+        <nombre>Montgomery La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CC3E1A68</id>
+        <nombre>Kathryn McCoy</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F2BB03A1</id>
+        <nombre>James Riker</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-809A86A9</id>
+        <nombre>Spock La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A51F29BC</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E5475DFF</id>
+        <nombre>William McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-828DCF87</id>
+        <nombre>Nyota McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B9CF1950</id>
+        <nombre>Beverly Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0CFCED3A</id>
+        <nombre>Leonard Janeway</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-72E3BBE0</id>
+        <nombre>Pavel of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-96339842</id>
+        <nombre>Seven Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-62A77BB4</id>
+        <nombre>Montgomery Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-098159B9</id>
+        <nombre>Nyota Janeway</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D4001D78</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0B71A932</id>
+        <nombre>Montgomery La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1733BA15</id>
+        <nombre>James Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AB1FA4F8</id>
+        <nombre>Hikaru McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C96DD947</id>
+        <nombre>Hikaru La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E5CF6707</id>
+        <nombre>Beverly Chekov</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-78273C9E</id>
+        <nombre>Seven Riker</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5A21B2A5</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D993F0FB</id>
+        <nombre>William Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-12495A7F</id>
+        <nombre>Beverly La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2795FCB5</id>
+        <nombre>Nyota Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6B780A71</id>
+        <nombre>Jean-Luc Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F44590E0</id>
+        <nombre>Leonard Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0E2048A0</id>
+        <nombre>Nyota McCoy</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C61E34CF</id>
+        <nombre>Montgomery of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-62D96F1F</id>
+        <nombre>Leonard Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BFCED714</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EC72920E</id>
+        <nombre>Seven Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E515DF01</id>
+        <nombre>Pavel McCoy</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F1C3DC1F</id>
+        <nombre>Spock Chekov</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EBBA9927</id>
+        <nombre>Deanna Sulu</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9A9D7778</id>
+        <nombre>Montgomery Scott</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D1A6577F</id>
+        <nombre>Leonard Kirk</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DAC63134</id>
+        <nombre>William Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-743CDEB0</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B6E92DF4</id>
+        <nombre>Seven Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-033582C0</id>
+        <nombre>Kathryn of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F127D066</id>
+        <nombre>James of Nine</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2A9A4BDC</id>
+        <nombre>Hikaru La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A1F8554A</id>
+        <nombre>Montgomery Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A47F6B60</id>
+        <nombre>Leonard Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D6F7196A</id>
+        <nombre>Pavel Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-98AC8E09</id>
+        <nombre>Deanna La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1ABB1DBE</id>
+        <nombre>Geordi Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D0BC67FE</id>
+        <nombre>Deanna Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-641FE558</id>
+        <nombre>William of Nine</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-70737246</id>
+        <nombre>Spock Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0106CD15</id>
+        <nombre>Seven Troi</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0CD0478B</id>
+        <nombre>James Scott</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-32187B54</id>
+        <nombre>Pavel Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3F2B5C20</id>
+        <nombre>Nyota La Forge</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D6EEA6D1</id>
+        <nombre>Seven Kirk</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0F424EB9</id>
+        <nombre>Nyota Sulu</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-461B1047</id>
+        <nombre>Kathryn Sulu</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AF4D88E8</id>
+        <nombre>Seven Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E29F39DD</id>
+        <nombre>Deanna Kirk</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-004A7D37</id>
+        <nombre>Montgomery McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0C68C35D</id>
+        <nombre>Nyota Troi</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C22464CC</id>
+        <nombre>Jean-Luc Troi</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>48</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-A48F8FD5</id>
+        <nombre>James Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-60858B40</id>
+        <nombre>Leonard Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9D4F7538</id>
+        <nombre>Pavel Picard</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-64BE8506</id>
+        <nombre>Deanna Scott</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BFD068B5</id>
+        <nombre>Seven Sulu</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-59B8B7C3</id>
+        <nombre>Hikaru Uhura</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-15248423</id>
+        <nombre>Pavel McCoy</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-04B3E5A4</id>
+        <nombre>Nyota Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E456D410</id>
+        <nombre>Beverly Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B2658D10</id>
+        <nombre>Nyota La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-530D1615</id>
+        <nombre>Deanna Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-99C1AC01</id>
+        <nombre>Leonard Scott</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7DC733B2</id>
+        <nombre>Deanna Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6764F864</id>
+        <nombre>Beverly Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C4E65596</id>
+        <nombre>Beverly Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D9895A45</id>
+        <nombre>Leonard La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-685E6554</id>
+        <nombre>Hikaru McCoy</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AB00B525</id>
+        <nombre>Geordi Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-678B7A75</id>
+        <nombre>Pavel Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9AF69552</id>
+        <nombre>Deanna Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BD491DE8</id>
+        <nombre>Pavel Scott</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-19D964F6</id>
+        <nombre>Pavel of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5C34AD51</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BF033238</id>
+        <nombre>Jean-Luc Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-023E584C</id>
+        <nombre>Spock La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-883C0734</id>
+        <nombre>Geordi Troi</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0B271884</id>
+        <nombre>Seven Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-63E6E811</id>
+        <nombre>Pavel Chekov</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D6853A3D</id>
+        <nombre>James Kirk</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5B2291BE</id>
+        <nombre>Geordi Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7182209D</id>
+        <nombre>Hikaru Scott</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F722FED7</id>
+        <nombre>Nyota Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-10514008</id>
+        <nombre>Geordi Chekov</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2DA6D8C1</id>
+        <nombre>Deanna Picard</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C4613674</id>
+        <nombre>Geordi Chekov</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C6E728CF</id>
+        <nombre>Beverly McCoy</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FA82A437</id>
+        <nombre>Hikaru Scott</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E2248306</id>
+        <nombre>Pavel Picard</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EFEDC24E</id>
+        <nombre>Kathryn Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CACB1C01</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>28</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9BB0E2C2</id>
+        <nombre>Nyota Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-57154012</id>
+        <nombre>Kathryn Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-26E4DF6F</id>
+        <nombre>Hikaru La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-60A852BB</id>
+        <nombre>Deanna Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-24E1AFC7</id>
+        <nombre>Pavel Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3C89E4C4</id>
+        <nombre>William Picard</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B6D52B76</id>
+        <nombre>Spock Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>49</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E872903E</id>
+        <nombre>Hikaru Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E8C7359C</id>
+        <nombre>Beverly Uhura</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C82CC36B</id>
+        <nombre>Montgomery Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5C9541CD</id>
+        <nombre>William Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C1C069DC</id>
+        <nombre>James Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9A6C6AE7</id>
+        <nombre>Spock Janeway</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-32A06204</id>
+        <nombre>Deanna Troi</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8FFB0E13</id>
+        <nombre>Seven Kirk</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7657D39D</id>
+        <nombre>Beverly Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-307DFDEA</id>
+        <nombre>Spock Crusher</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BC60F2FB</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B66888FF</id>
+        <nombre>Seven Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C86E7277</id>
+        <nombre>Hikaru Kirk</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-EBA3D51E</id>
+        <nombre>Montgomery La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0C1D476E</id>
+        <nombre>Leonard Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F4B30E10</id>
+        <nombre>Jean-Luc Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5CCBE48F</id>
+        <nombre>Kathryn Riker</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9CB97A7E</id>
+        <nombre>Nyota Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2869E9B7</id>
+        <nombre>Montgomery Riker</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-15DC7558</id>
+        <nombre>Hikaru of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6A216383</id>
+        <nombre>Kathryn Janeway</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-416303CC</id>
+        <nombre>Jean-Luc Chekov</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-ECC0C326</id>
+        <nombre>Seven of Nine</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-53CA6C87</id>
+        <nombre>Kathryn Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-95CBCE64</id>
+        <nombre>Kathryn of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5FF8A96D</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>60</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-179CA0A4</id>
+        <nombre>Pavel Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-02C55A10</id>
+        <nombre>Deanna Scott</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B8E341D3</id>
+        <nombre>Geordi McCoy</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-533E0891</id>
+        <nombre>Hikaru Janeway</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-060851C1</id>
+        <nombre>Jean-Luc La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0884280C</id>
+        <nombre>Nyota Sulu</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-17C07265</id>
+        <nombre>Jean-Luc Troi</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>29</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-15CDD8FF</id>
+        <nombre>Beverly Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5CD797F8</id>
+        <nombre>William of Nine</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FF5F940E</id>
+        <nombre>William of Nine</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-35EAA77A</id>
+        <nombre>Montgomery Riker</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-35CC4243</id>
+        <nombre>Deanna Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FD32488B</id>
+        <nombre>Pavel Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B436EFAF</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-625B9712</id>
+        <nombre>Seven Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-53B0EC10</id>
+        <nombre>Jean-Luc Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6B714BE2</id>
+        <nombre>Deanna Uhura</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9F51B7B9</id>
+        <nombre>Pavel Kirk</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AD538517</id>
+        <nombre>Nyota of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AA4BEE5B</id>
+        <nombre>Kathryn Janeway</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-991EAE48</id>
+        <nombre>Deanna Worf</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-44A0CA4E</id>
+        <nombre>Leonard Chekov</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C6523BDB</id>
+        <nombre>Nyota Janeway</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-79CC3FD7</id>
+        <nombre>Leonard Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-63E22F1B</id>
+        <nombre>Seven McCoy</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-47545244</id>
+        <nombre>Kathryn Troi</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4298EEB1</id>
+        <nombre>Kathryn Riker</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AC9B9056</id>
+        <nombre>Leonard Chekov</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>52</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9D4FA078</id>
+        <nombre>Leonard Crusher</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8D48B911</id>
+        <nombre>Spock Uhura</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5B17BC73</id>
+        <nombre>Leonard Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>42</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-27938D2B</id>
+        <nombre>William Janeway</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6E46C75B</id>
+        <nombre>Spock Janeway</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C451B29A</id>
+        <nombre>William of Nine</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D4A1E1AF</id>
+        <nombre>James Janeway</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6BD5E913</id>
+        <nombre>Hikaru of Nine</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F42F3CAD</id>
+        <nombre>Leonard La Forge</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-152DCAA6</id>
+        <nombre>Spock La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3047A9ED</id>
+        <nombre>Nyota La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4F36B589</id>
+        <nombre>Seven Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7DE7E625</id>
+        <nombre>Leonard Scott</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C298C014</id>
+        <nombre>William Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CC7495F0</id>
+        <nombre>Deanna Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5CDC6A2D</id>
+        <nombre>Kathryn Janeway</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2917C7AC</id>
+        <nombre>Deanna Sulu</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-627AC093</id>
+        <nombre>Beverly La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-630EA6DD</id>
+        <nombre>Deanna Troi</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F9D27209</id>
+        <nombre>Hikaru McCoy</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8CE90169</id>
+        <nombre>Deanna Crusher</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7B18E480</id>
+        <nombre>Deanna Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-70A2C796</id>
+        <nombre>Kathryn Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-44DED400</id>
+        <nombre>Hikaru Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B837880C</id>
+        <nombre>Leonard Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7BE03C4D</id>
+        <nombre>Spock Kirk</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>32</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E6361A96</id>
+        <nombre>Hikaru Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>45</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2EF8D74A</id>
+        <nombre>Beverly Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-613DED74</id>
+        <nombre>Pavel Worf</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BF6D8755</id>
+        <nombre>Spock Worf</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2F4C4A00</id>
+        <nombre>Deanna Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F2435E36</id>
+        <nombre>William Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B509C5A6</id>
+        <nombre>Kathryn Uhura</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-13D018DD</id>
+        <nombre>Leonard Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E00D20D7</id>
+        <nombre>Nyota Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8A37C78B</id>
+        <nombre>Beverly La Forge</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DB774292</id>
+        <nombre>Geordi Crusher</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0355EDB7</id>
+        <nombre>Spock Worf</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>35</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-119B910F</id>
+        <nombre>James Troi</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AE899A9F</id>
+        <nombre>Jean-Luc La Forge</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6C40F654</id>
+        <nombre>Pavel Kirk</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5C172CC9</id>
+        <nombre>Pavel Crusher</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-799127A3</id>
+        <nombre>James Riker</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B8769D71</id>
+        <nombre>Seven Chekov</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>37</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-ED31345E</id>
+        <nombre>Jean-Luc Picard</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1F18F5B2</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9ABAB8F6</id>
+        <nombre>William Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D611D248</id>
+        <nombre>Spock Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-96978832</id>
+        <nombre>Jean-Luc Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-071BAAAA</id>
+        <nombre>Beverly Worf</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4CBF08F9</id>
+        <nombre>Spock Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-907938C6</id>
+        <nombre>Spock of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-919E9224</id>
+        <nombre>Montgomery Scott</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E761C54D</id>
+        <nombre>Leonard Crusher</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-408CB2AA</id>
+        <nombre>Deanna Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5E43EDD4</id>
+        <nombre>Pavel Troi</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>44</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7465B1FB</id>
+        <nombre>William Scott</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7C4DD874</id>
+        <nombre>Kathryn Riker</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-4C0129D0</id>
+        <nombre>Spock Riker</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-66718CD3</id>
+        <nombre>Leonard Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-37D99D8B</id>
+        <nombre>Jean-Luc Crusher</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-93921898</id>
+        <nombre>Deanna Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D9F9DF24</id>
+        <nombre>Beverly Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>64</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D876CA73</id>
+        <nombre>William Troi</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E7749699</id>
+        <nombre>James Sulu</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C052E8A9</id>
+        <nombre>Hikaru Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>23</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-57B5F662</id>
+        <nombre>Kathryn Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CDFFB7D0</id>
+        <nombre>Hikaru Picard</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>59</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6F4749C8</id>
+        <nombre>Beverly Picard</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>31</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B8AD3444</id>
+        <nombre>Hikaru La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>25</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-17C9ABE2</id>
+        <nombre>Seven La Forge</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-72F6CD7E</id>
+        <nombre>Jean-Luc Crusher</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B282C734</id>
+        <nombre>Geordi of Nine</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>30</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C7C80143</id>
+        <nombre>William McCoy</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2CAA3198</id>
+        <nombre>Leonard Scott</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>22</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E632D93D</id>
+        <nombre>Spock Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>58</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-33B25BC4</id>
+        <nombre>Kathryn Janeway</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B81B75DA</id>
+        <nombre>James La Forge</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1E3245C6</id>
+        <nombre>Jean-Luc Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-051417AD</id>
+        <nombre>Pavel Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>18</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BCC2A7D5</id>
+        <nombre>Seven Crusher</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5ACF0CE9</id>
+        <nombre>Pavel Riker</nombre>
+        <graduacion>Teniente</graduacion>
+        <edad>21</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-19F795B2</id>
+        <nombre>Montgomery Sulu</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-2BC8360C</id>
+        <nombre>Seven Riker</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CAD186A6</id>
+        <nombre>James Sulu</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8C965CEE</id>
+        <nombre>Jean-Luc Kirk</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-95E3726C</id>
+        <nombre>Seven Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>47</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-0E2355A7</id>
+        <nombre>Geordi Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-768511B9</id>
+        <nombre>Leonard Riker</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-D2B1ADE0</id>
+        <nombre>Nyota La Forge</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-98142B15</id>
+        <nombre>Jean-Luc La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>62</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5F8A3975</id>
+        <nombre>Jean-Luc Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>51</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-805E8C94</id>
+        <nombre>Hikaru of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-CC6429D1</id>
+        <nombre>Seven of Nine</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-7F1214E4</id>
+        <nombre>Pavel Kirk</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-91A2F5EE</id>
+        <nombre>Spock Kirk</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>43</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-BC1BF035</id>
+        <nombre>William Kirk</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>19</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5A6862BD</id>
+        <nombre>Pavel Troi</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>40</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DBD6BF13</id>
+        <nombre>Seven Chekov</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-8106BF6E</id>
+        <nombre>Beverly Chekov</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>54</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C655950A</id>
+        <nombre>Montgomery Troi</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>26</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-FD98A541</id>
+        <nombre>Montgomery Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>39</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-6BE6B8CF</id>
+        <nombre>James Chekov</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E074346F</id>
+        <nombre>William Troi</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-E4143995</id>
+        <nombre>James Uhura</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>57</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C781A634</id>
+        <nombre>Spock Crusher</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-5605F4BB</id>
+        <nombre>Jean-Luc La Forge</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>63</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-F7B0B205</id>
+        <nombre>Kathryn McCoy</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>55</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-9919D582</id>
+        <nombre>Montgomery Janeway</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>53</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-98A726B5</id>
+        <nombre>Montgomery Troi</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>56</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-706039C4</id>
+        <nombre>Leonard Kirk</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>46</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1E016A6C</id>
+        <nombre>Nyota Worf</nombre>
+        <graduacion>Almirante</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-3398A529</id>
+        <nombre>Montgomery Uhura</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>65</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-17205F69</id>
+        <nombre>Nyota Sulu</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>34</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-648208AF</id>
+        <nombre>Jean-Luc Kirk</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>36</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-577DCDE9</id>
+        <nombre>James of Nine</nombre>
+        <graduacion>Suboficial</graduacion>
+        <edad>27</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-C009F176</id>
+        <nombre>Pavel Riker</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>50</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-B954C791</id>
+        <nombre>Deanna Kirk</nombre>
+        <graduacion>Teniente Comandante</graduacion>
+        <edad>20</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-1DC726C2</id>
+        <nombre>Jean-Luc Scott</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>38</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-35CA4347</id>
+        <nombre>Pavel La Forge</nombre>
+        <graduacion>Comandante</graduacion>
+        <edad>33</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-AC18B58A</id>
+        <nombre>Spock Chekov</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>61</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-DEE1A266</id>
+        <nombre>William Worf</nombre>
+        <graduacion>Capitán</graduacion>
+        <edad>41</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-509A27C4</id>
+        <nombre>Seven Picard</nombre>
+        <graduacion>Alférez</graduacion>
+        <edad>24</edad>
+    </crewmember>
+    <crewmember>
+        <id>ID-828AA3DD</id>
+        <nombre>Montgomery La Forge</nombre>
+        <graduacion>Cadete</graduacion>
+        <edad>21</edad>
+    </crewmember>
+</crew>

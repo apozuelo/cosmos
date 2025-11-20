@@ -28,6 +28,12 @@ public class ConfigManager {
     public static class Config {
         @SerializedName("database")
         private DatabaseConfig database;
+        
+        @SerializedName("crew")
+        private CrewConfig crew;
+        
+        @SerializedName("starship")
+        private StarshipConfig starship;
 
         /**
          * Obtiene la configuración de la base de datos.
@@ -46,14 +52,50 @@ public class ConfigManager {
         public void setDatabase(DatabaseConfig database) {
             this.database = database;
         }
+        
+        /**
+         * Obtiene la configuración de crew.
+         * 
+         * @return Configuración de crew
+         */
+        public CrewConfig getCrew() {
+            return crew;
+        }
+        
+        /**
+         * Establece la configuración de crew.
+         * 
+         * @param crew Configuración de crew
+         */
+        public void setCrew(CrewConfig crew) {
+            this.crew = crew;
+        }
+        
+        /**
+         * Obtiene la configuración de starship.
+         * 
+         * @return Configuración de starship
+         */
+        public StarshipConfig getStarship() {
+            return starship;
+        }
+        
+        /**
+         * Establece la configuración de starship.
+         * 
+         * @param starship Configuración de starship
+         */
+        public void setStarship(StarshipConfig starship) {
+            this.starship = starship;
+        }
     }
 
     /**
      * Clase interna que representa la configuración de la base de datos.
      */
     public static class DatabaseConfig {
-        @SerializedName("path")
-        private String path;
+        @SerializedName("pathdb")
+        private String pathdb;
 
         /**
          * Obtiene la ruta de la base de datos.
@@ -61,7 +103,7 @@ public class ConfigManager {
          * @return Ruta del archivo de base de datos
          */
         public String getPath() {
-            return path;
+            return pathdb;
         }
 
         /**
@@ -70,7 +112,59 @@ public class ConfigManager {
          * @param path Ruta del archivo de base de datos
          */
         public void setPath(String path) {
-            this.path = path;
+            this.pathdb = path;
+        }
+    }
+
+    /**
+     * Clase interna que representa la configuración de crew.
+     */
+    public static class CrewConfig {
+        @SerializedName("pathcrew")
+        private String pathcrew;
+
+        /**
+         * Obtiene la ruta del archivo crew.
+         * 
+         * @return Ruta del archivo crew
+         */
+        public String getPath() {
+            return pathcrew;
+        }
+
+        /**
+         * Establece la ruta del archivo crew.
+         * 
+         * @param path Ruta del archivo crew
+         */
+        public void setPath(String path) {
+            this.pathcrew = path;
+        }
+    }
+
+    /**
+     * Clase interna que representa la configuración de starship.
+     */
+    public static class StarshipConfig {
+        @SerializedName("pathstarship")
+        private String pathstarship;
+
+        /**
+         * Obtiene la ruta del archivo starship.
+         * 
+         * @return Ruta del archivo starship
+         */
+        public String getPath() {
+            return pathstarship;
+        }
+
+        /**
+         * Establece la ruta del archivo starship.
+         * 
+         * @param path Ruta del archivo starship
+         */
+        public void setPath(String path) {
+            this.pathstarship = path;
         }
     }
 
@@ -136,5 +230,23 @@ public class ConfigManager {
      */
     public String getDatabasePath() {
         return config.getDatabase().getPath();
+    }
+    
+    /**
+     * Obtiene la ruta del archivo crew desde la configuración.
+     * 
+     * @return Ruta del archivo crew
+     */
+    public String getCrewPath() {
+        return config.getCrew().getPath();
+    }
+    
+    /**
+     * Obtiene la ruta del archivo starship desde la configuración.
+     * 
+     * @return Ruta del archivo starship
+     */
+    public String getStarshipPath() {
+        return config.getStarship().getPath();
     }
 }

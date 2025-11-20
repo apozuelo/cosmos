@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<starships>
+    <starship>
+        <id>NX-60447</id>
+        <nombre>Reliant-D</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-27779</id>
+        <nombre>Excalibur</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-14401</id>
+        <nombre>Prometheus-M</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-73563</id>
+        <nombre>Aurora</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-67156</id>
+        <nombre>Enterprise-Z</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-13723</id>
+        <nombre>Voyager</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-18792</id>
+        <nombre>Enterprise</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-16565</id>
+        <nombre>Enterprise</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-96269</id>
+        <nombre>Discovery</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-27454</id>
+        <nombre>Reliant</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-63266</id>
+        <nombre>Yamato</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-53257</id>
+        <nombre>Prometheus</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-09860</id>
+        <nombre>Reliant-G</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-77070</id>
+        <nombre>Phoenix</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-87651</id>
+        <nombre>Enterprise</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-48684</id>
+        <nombre>Phoenix</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-08551</id>
+        <nombre>Yamato</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-07421</id>
+        <nombre>Reliant</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-49740</id>
+        <nombre>Phoenix</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-18911</id>
+        <nombre>Discovery</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-85401</id>
+        <nombre>Reliant-L</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-58393</id>
+        <nombre>Enterprise</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-20082</id>
+        <nombre>Enterprise</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-85041</id>
+        <nombre>Prometheus</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-39858</id>
+        <nombre>Enterprise</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-05090</id>
+        <nombre>Defiant-T</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-48770</id>
+        <nombre>Reliant</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-83964</id>
+        <nombre>Titan</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NCC-36324</id>
+        <nombre>Constellation</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>NX-86303</id>
+        <nombre>Defiant</nombre>
+        <faccion>Federacion Unida de Planetas</faccion>
+    </starship>
+    <starship>
+        <id>IRW-42729</id>
+        <nombre>Mogai</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-44966</id>
+        <nombre>Haakona-V</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-30616</id>
+        <nombre>Haakona</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-45890</id>
+        <nombre>Norexan-I</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-15980</id>
+        <nombre>Makar-N</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-52684</id>
+        <nombre>Algeron</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-13100</id>
+        <nombre>Dividices-B</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-85689</id>
+        <nombre>Mogai</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-25009</id>
+        <nombre>Devoras</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-26894</id>
+        <nombre>Mogai</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-96375</id>
+        <nombre>Makar</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-09027</id>
+        <nombre>Talvath</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-94724</id>
+        <nombre>Praetus-F</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-08438</id>
+        <nombre>Terix</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-11627</id>
+        <nombre>Norexan</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-14975</id>
+        <nombre>Valdore</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-69151</id>
+        <nombre>Keras</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-39784</id>
+        <nombre>Terix-V</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-19285</id>
+        <nombre>Haakona</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-12702</id>
+        <nombre>Keras-E</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-94256</id>
+        <nombre>Praetus-V</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-59802</id>
+        <nombre>Algeron-U</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-23826</id>
+        <nombre>D'deridex-J</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-23866</id>
+        <nombre>Valdore</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-19990</id>
+        <nombre>Khazara-A</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-90861</id>
+        <nombre>Mogai</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-46246</id>
+        <nombre>Keras</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-18266</id>
+        <nombre>Khazara</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-34876</id>
+        <nombre>D'deridex</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IRW-97817</id>
+        <nombre>Khazara</nombre>
+        <faccion>Imperio Estelar Romulano</faccion>
+    </starship>
+    <starship>
+        <id>IKS-84937</id>
+        <nombre>Somraw</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-70194</id>
+        <nombre>Drovana-V</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-44061</id>
+        <nombre>Korinar</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-92686</id>
+        <nombre>Hegh'ta</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-24132</id>
+        <nombre>Korinar</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-85366</id>
+        <nombre>Ch'Tang</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-23632</id>
+        <nombre>Bortas</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-37731</id>
+        <nombre>Kronos One</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-15126</id>
+        <nombre>Negh'Var</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-08826</id>
+        <nombre>Bortas</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-29243</id>
+        <nombre>Buruk</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-84818</id>
+        <nombre>K'mpec-G</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-29121</id>
+        <nombre>Pagh-W</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-34391</id>
+        <nombre>Bortas</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-93057</id>
+        <nombre>Klothos</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-11131</id>
+        <nombre>Hegh'ta-C</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-52094</id>
+        <nombre>Negh'Var</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-90377</id>
+        <nombre>Pagh</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-07335</id>
+        <nombre>Ch'Tang</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-27615</id>
+        <nombre>Hegh'ta-O</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-93487</id>
+        <nombre>Negh'Var-Z</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-81522</id>
+        <nombre>Gr'oth-K</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-17066</id>
+        <nombre>Pagh</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-99967</id>
+        <nombre>Kronos One-W</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-28253</id>
+        <nombre>Klothos</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-00473</id>
+        <nombre>Somraw</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-38792</id>
+        <nombre>Hegh'ta-A</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-52362</id>
+        <nombre>Kronos One</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-07847</id>
+        <nombre>Pagh-X</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+    <starship>
+        <id>IKS-65617</id>
+        <nombre>K'mpec</nombre>
+        <faccion>Imperio Klingon</faccion>
+    </starship>
+</starships>

@@ -1,5 +1,11 @@
 {
   "database": {
-    "path": "cosmos.db"
+    "pathdb": "cosmos.db"
+  },
+  "crew": {
+    "pathcrew": "crew.xml"
+  },
+  "starship": {
+    "pathstarship": "starship.xml"
   }
 }
